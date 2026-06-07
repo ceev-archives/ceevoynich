@@ -1,0 +1,12 @@
+
+body{
+font-family:"Times New Roman",serif;
+background:url('images/paper.png');
+margin:0;
+}
+#container{width:1000px;margin:auto;background:#f8f2df;border:1px solid #999;}
+#menu{float:left;width:180px;background:#dde7ff;padding:10px;min-height:700px;}
+#content{margin-left:210px;padding:15px;}
+a{color:#003399;}
+.counter{font-family:Courier New,monospace;font-size:20px;}
+.thumb{width:220px;border:1px solid #666;margin:6px;}
